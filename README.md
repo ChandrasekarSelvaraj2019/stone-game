@@ -9,5 +9,5 @@ numberOfStonesInEachPit
 
 # Note
 
-while selecting the Pits, select from pit zero till numberOfSmallPits - 1 Large Pit is added to the end of each user pit
-in the array display Please also avoid entering characters and selecting empty pits and large pits
+while selecting the Pits, select from pit zero till numberOfSmallPits - 1. Large Pit is added to the end of each user
+pit in the array display. Please also avoid entering characters and selecting empty pits and large pits
